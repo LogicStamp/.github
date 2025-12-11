@@ -1,6 +1,7 @@
 # 🚀 LogicStamp
 
-AI-ready context for modern codebases.
+### 🦊 AI-ready context for modern React/TypeScript codebases  
+Structured snapshots for accurate, reliable LLM-assisted development.
 
 <div align="center">
   <img src="https://logicstamp.dev/mascot/logicstamp-fox.svg" width="120" alt="LogicStamp Fox Mascot" />
@@ -18,23 +19,28 @@ AI-ready context for modern codebases.
 
 ## 🧠 What is LogicStamp?
 
-LogicStamp is an open-source toolkit that converts React/TypeScript codebases into structured, AI-ready context bundles — enabling more accurate, reliable LLM-assisted development.
+LogicStamp is an open-source toolkit that converts React/TypeScript codebases into **structured, AI-ready context bundles** — enabling dramatically more accurate LLM-assisted development.
 
-No more invented files, missing props, or broken refactors.
+No more invented files.  
+No more missing props.  
+No more architecture-breaking hallucinations.
+
+Used today by real developers in production-scale React/Next.js projects.
 
 ---
 
 ## 🧰 Projects
 
 ### **logicstamp-context (CLI)**
-Generate component contracts, dependencies, props, routes, styles, and metadata for AI tools.  
+Generates component contracts, dependencies, props, routes, styles, and metadata for LLMs.  
 ➡️ https://github.com/LogicStamp/logicstamp-context
 
-### **(Coming Soon!) logicstamp-mcp (Model Context Protocol Server)**
-Bring LogicStamp directly into Claude, Cursor, and AI IDEs via MCP.  
-➡️ https://github.com/LogicStamp/logicstamp-mcp
+### **logicstamp-mcp (Model Context Protocol Server)**  
+Bring LogicStamp into Claude, Cursor, Windsurf, and AI IDEs via MCP.  
+➡️ https://github.com/LogicStamp/logicstamp-mcp  
+*(coming very soon — ready for first release)*
 
-### **logicstamp.dev (Docs & Landing Page)**
+### **logicstamp.dev (Docs & Landing Page)**  
 Official documentation, guides, examples, and onboarding.  
 ➡️ https://github.com/LogicStamp/logicstamp.dev
 
@@ -43,23 +49,44 @@ Official documentation, guides, examples, and onboarding.
 ## 🌟 Why LogicStamp?
 
 - Eliminates guesswork in large React/Next.js codebases  
-- Produces machine-readable snapshots for AI  
-- Improves refactor safety and architectural consistency  
-- Designed for modern LLM workflows and IDEs  
+- Prevents hallucinated components and broken refactors  
+- Produces **machine-readable snapshots** optimized for LLMs  
+- Designed for MCP, AI coding assistants, and modern AI workflows  
+- Helps LLMs understand your architecture the way *you* do  
 
 ---
 
-## 📦 Install
+## 📦 Install - CLI
 
 ```bash
 npm install -g logicstamp-context
 ```
 
-Generate your first snapshot:
+## Generate context (with style metadata)
 
 ```bash
-stamp analyze src/
+stamp context style
 ```
+
+## Generate context (without style)
+
+```bash
+stamp context
+```
+
+## 📡 Install - MCP Server
+
+```bash
+npm install -g logicstamp-mcp
+```
+
+Start the MCP server:
+
+```bash
+npx logicstamp-mcp
+```
+
+## Then tell your AI assistant to use the LogicStamp MCP Server to analyze your project.
 
 ---
 
