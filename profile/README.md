@@ -38,7 +38,6 @@ Generates component contracts, dependencies, props, routes, styles, and metadata
 ### **logicstamp-mcp (Model Context Protocol Server)**  
 Bring LogicStamp into Claude, Cursor, Windsurf, and AI IDEs via MCP.  
 ➡️ https://github.com/LogicStamp/logicstamp-mcp  
-*(coming very soon — ready for first release)*
 
 ### **logicstamp.dev (Docs & Landing Page)**  
 Official documentation, guides, examples, and onboarding.  
