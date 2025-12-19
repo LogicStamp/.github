@@ -13,6 +13,8 @@ Structured snapshots for accurate, reliable LLM-assisted development.
   <a href="https://logicstamp.dev/docs">Docs</a>
   ·
   <a href="https://github.com/LogicStamp/logicstamp-context">CLI</a>
+  ·
+  <a href="https://github.com/LogicStamp/logicstamp-mcp">MCP</a>
 </div>
 
 ---
