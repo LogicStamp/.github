@@ -1,6 +1,6 @@
-# 🚀 LogicStamp
+## LogicStamp
 
-### 🦊 AI-ready context for modern React/TypeScript codebases  
+### AI-ready context for modern React/TypeScript codebases  
 Structured snapshots for accurate, reliable LLM-assisted development.
 
 <div align="center">
@@ -19,7 +19,7 @@ Structured snapshots for accurate, reliable LLM-assisted development.
 
 ---
 
-## 🧠 What is LogicStamp?
+## What is LogicStamp?
 
 LogicStamp is an open-source toolkit that converts React/TypeScript codebases into **structured, AI-ready context bundles** — enabling dramatically more accurate LLM-assisted development.
 
@@ -31,7 +31,7 @@ Used today by real developers in production-scale React/Next.js projects.
 
 ---
 
-## 🧰 Projects
+## Projects
 
 ### **logicstamp-context (CLI)**
 Generates component contracts, dependencies, props, routes, styles, and metadata for LLMs.  
@@ -47,7 +47,7 @@ Official documentation, guides, examples, and onboarding.
 
 ---
 
-## 🌟 Why LogicStamp?
+## Why LogicStamp?
 
 - Eliminates guesswork in large React/Next.js codebases  
 - Prevents hallucinated components and broken refactors  
@@ -91,8 +91,8 @@ npx logicstamp-mcp
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Issues and PRs are welcome across all repositories.
 
-## 📬 Contact
+## Contact
 logicstamp.dev@gmail.com
