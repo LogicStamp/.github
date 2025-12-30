@@ -81,12 +81,6 @@ stamp context
 npm install -g logicstamp-mcp
 ```
 
-Start the MCP server:
-
-```bash
-npx logicstamp-mcp
-```
-
 ## Then tell your AI assistant to use the LogicStamp MCP Server to analyze your project.
 
 ---
