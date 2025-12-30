@@ -19,6 +19,20 @@ Structured snapshots for accurate, reliable LLM-assisted development.
 
 ---
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-workflow.gif"
+    alt="LogicStamp MCP analyzing a real React + Tailwind codebase"
+    width="900"
+  />
+</p>
+
+<p align="center">
+  <em>LogicStamp MCP building a structured, Tailwind-aware view of a real React codebase.</em>
+</p>
+
+---
+
 ## What is LogicStamp?
 
 LogicStamp is an open-source toolkit that converts React/TypeScript codebases into **structured, AI-ready context bundles** — enabling dramatically more accurate LLM-assisted development.
