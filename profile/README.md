@@ -1,7 +1,10 @@
 ## LogicStamp
+  <br/>
 
-### AI-ready context for modern React/TypeScript codebases  
+<div align="center">
+AI-ready context for modern React/TypeScript codebases  
 Structured snapshots for accurate, reliable LLM-assisted development.
+</div>
 
 <div align="center">
   <img src="https://logicstamp.dev/mascot/logicstamp-fox.svg" width="120" alt="LogicStamp Fox Mascot" />
