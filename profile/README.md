@@ -31,7 +31,10 @@ Structured snapshots for accurate, reliable LLM-assisted development.
 </p>
 
 <p align="center">
-  <em>LogicStamp MCP building a structured, Tailwind-aware view of a real React codebase.</em>
+ <em>
+    LogicStamp MCP server building a structured, Tailwind-aware view of a React codebase.<br />
+    CLI-driven context bundles generated and consumed via MCP.
+  </em>
 </p>
 
 ---
