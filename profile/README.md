@@ -14,6 +14,8 @@ Structured snapshots for accurate, reliable LLM-assisted development.
   <a href="https://logicstamp.dev">Website</a>
   ·
   <a href="https://logicstamp.dev/docs">Docs</a>
+   ·
+  <a href="https://www.npmjs.com/~amitek">npm</a>
   ·
   <a href="https://github.com/LogicStamp/logicstamp-context">CLI</a>
   ·
@@ -101,9 +103,9 @@ stamp context
 npm install -g logicstamp-mcp
 ```
 
-👉→ setup guide → [https://lo/docs/gicstamp.dev/docs/d)**mcp/getting-started](https://logicstamp.dev/docs/mcp/getting-started)
+setup guide → [https://lo/docs/gicstamp.dev/docs/d)**mcp/getting-started](https://logicstamp.dev/docs/mcp/getting-started)
 
-## Then tell your AI assistant to use the LogicStamp MCP Server to analyze your project.
+#### 👉 Then tell your AI assistant to use the LogicStamp MCP Server to analyze your project.
 
 ---
 
