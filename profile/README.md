@@ -49,8 +49,6 @@ No more invented files.
 No more missing props.  
 No more architecture-breaking hallucinations.
 
-Used today by real developers in production-scale React/Next.js projects.
-
 ---
 
 ## Projects
