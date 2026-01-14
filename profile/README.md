@@ -2,8 +2,7 @@
   <br/>
 
 <div align="center">
-AI-ready context for modern React/TypeScript codebases  
-Structured snapshots for accurate, reliable LLM-assisted development.
+AI-ready context bundles for modern React/TypeScript codebases - structured snapshots for accurate, reliable LLM-assisted development.
 </div>
 
 <div align="center">
@@ -43,7 +42,7 @@ Structured snapshots for accurate, reliable LLM-assisted development.
 
 ## What is LogicStamp?
 
-LogicStamp is an open-source toolkit that converts React/TypeScript codebases into **structured, AI-ready context bundles** — enabling dramatically more accurate LLM-assisted development.
+LogicStamp is an open-source developer toolkit that converts React/TypeScript codebases into **structured, AI-ready context bundles** — enabling dramatically more accurate LLM-assisted development.
 
 No more invented files.  
 No more missing props.  
@@ -101,7 +100,7 @@ stamp context
 npm install -g logicstamp-mcp
 ```
 
-setup guide → [https://lo/docs/gicstamp.dev/docs/d)**mcp/getting-started](https://logicstamp.dev/docs/mcp/getting-started)
+Setup guide → https://logicstamp.dev/docs/mcp/getting-started
 
 #### 👉 Then tell your AI assistant to use the LogicStamp MCP Server to analyze your project.
 
