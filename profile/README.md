@@ -112,5 +112,9 @@ setup guide → [https://lo/docs/gicstamp.dev/docs/d)**mcp/getting-started](http
 ## Contributing
 Issues and PRs are welcome across all repositories.
 
+## Community
+
+This project follows a [Code of Conduct](https://logicstamp.dev/code-of-conduct). By participating, you agree to uphold it.
+
 ## Contact
 logicstamp.dev@gmail.com
