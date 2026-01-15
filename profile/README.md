@@ -68,9 +68,6 @@ LogicStamp is:
 - **Framework-aware** - deep understanding of React and TypeScript semantics  
 - **Composable** - usable via CLI, MCP, and downstream tooling  
 
-LogicStamp is not a prompt, snapshot, or dump.  
-It is **infrastructure for reliable AI-assisted software development**.
-
 ---
 
 ## What does LogicStamp enable?
