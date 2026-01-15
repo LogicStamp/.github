@@ -48,7 +48,7 @@ AI-ready context bundles for modern React and TypeScript codebases - determinist
 
 **LogicStamp** is an open-source developer toolkit for **context engineering**.
 
-It statically analyzes React and TypeScript codebases and produces **deterministic, structured context bundles** that accurately model a project’s real architecture - components, props, hooks, dependencies, styles, and contracts.
+It statically analyzes React and TypeScript codebases and produces **deterministic, structured context bundles** that accurately model a codebase architecture - components, props, hooks, dependencies, styles, and contracts.
 
 These bundles provide LLMs and developer tools with **ground-truth architectural context**, enabling reliable AI-assisted development across editors, CI, and agent workflows.
 
