@@ -1,19 +1,23 @@
 ## LogicStamp
-  <br/>
+<br/>
 
 <div align="center">
-AI-ready context bundles for modern React/TypeScript codebases - structured snapshots for accurate, reliable LLM-assisted development.
+AI-ready context bundles for modern React and TypeScript codebases - deterministic, structured representations for accurate, reliable LLM-assisted development.
 </div>
 
 <div align="center">
-  <img src="https://logicstamp.dev/mascot/logicstamp-fox.svg" width="120" alt="LogicStamp Fox Mascot" />
+  <img
+    src="https://logicstamp.dev/mascot/logicstamp-fox.svg"
+    width="120"
+    alt="LogicStamp Fox Mascot"
+  />
 
   <br/>
 
   <a href="https://logicstamp.dev">Website</a>
   ·
   <a href="https://logicstamp.dev/docs">Docs</a>
-   ·
+  ·
   <a href="https://www.npmjs.com/~amitek">npm</a>
   ·
   <a href="https://github.com/LogicStamp/logicstamp-context">CLI</a>
@@ -32,8 +36,8 @@ AI-ready context bundles for modern React/TypeScript codebases - structured snap
 </p>
 
 <p align="center">
- <em>
-    LogicStamp MCP server building a structured, Tailwind-aware view of a React codebase.<br />
+  <em>
+    LogicStamp MCP server building a structured, Tailwind-aware view of a React codebase.<br/>
     CLI-driven context bundles generated and consumed via MCP.
   </em>
 </p>
@@ -42,37 +46,40 @@ AI-ready context bundles for modern React/TypeScript codebases - structured snap
 
 ## What is LogicStamp?
 
-LogicStamp is an open-source developer toolkit that converts React/TypeScript codebases into **structured, AI-ready context bundles** — enabling dramatically more accurate LLM-assisted development.
+**LogicStamp** is an open-source developer toolkit for **context engineering**.
 
-No more invented files.  
-No more missing props.  
-No more architecture-breaking hallucinations.
+It statically analyzes React and TypeScript codebases and produces **deterministic, structured context bundles** that accurately model a project’s real architecture - components, props, hooks, dependencies, styles, and contracts.
 
----
+These bundles provide LLMs and developer tools with **ground-truth architectural context**, enabling reliable AI-assisted development across editors, CI, and agent workflows.
 
-## Projects
-
-### **logicstamp-context (CLI)**
-Generates component contracts, dependencies, props, routes, styles, and metadata for LLMs.  
-➡️ https://github.com/LogicStamp/logicstamp-context
-
-### **logicstamp-mcp (Model Context Protocol Server)**  
-Bring LogicStamp into Claude, Cursor, Windsurf, and AI IDEs via MCP.  
-➡️ https://github.com/LogicStamp/logicstamp-mcp  
-
-### **logicstamp.dev (Docs & Landing Page)**  
-Official documentation, guides, examples, and onboarding.  
-➡️ https://github.com/LogicStamp/logicstamp.dev
+LogicStamp is designed to make AI systems understand your codebase - not guess at it.
 
 ---
 
 ## Why LogicStamp?
 
-- Eliminates guesswork in large React/Next.js codebases  
-- Prevents hallucinated components and broken refactors  
-- Produces **machine-readable snapshots** optimized for LLMs  
-- Designed for MCP, AI coding assistants, and modern AI workflows  
-- Helps LLMs understand your architecture the way *you* do  
+Large language models are powerful, but they depend entirely on the quality of the context they receive.  
+LogicStamp bridges this gap by transforming source code into **machine-readable architectural context** that is precise, reproducible, and safe.
+
+LogicStamp is:
+
+- **Deterministic** - the same code produces the same context every time  
+- **Static** - no runtime execution, no code mutation  
+- **Framework-aware** - deep understanding of React and TypeScript semantics  
+- **Composable** - usable via CLI, MCP, and downstream tooling  
+
+LogicStamp is not a prompt, snapshot, or dump.  
+It is **infrastructure for reliable AI-assisted software development**.
+
+---
+
+## What does LogicStamp enable?
+
+- Eliminates guesswork in large React and Next.js codebases  
+- Prevents hallucinated components and architecture-breaking refactors  
+- Produces **machine-readable architectural context** optimized for LLMs  
+- Designed for MCP, AI coding assistants, and modern agent workflows  
+- Helps LLMs understand your architecture the way you do  
 
 ---
 
