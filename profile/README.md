@@ -3,9 +3,10 @@
 <p align="center">
   <a href="https://logicstamp.dev">
     <img
-      src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-woodmark-no-bg.png"
+      src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-woodmark.png"
       alt="LogicStamp"
-      width="320"
+      width="420
+      height="auto"
     />
   </a>
 </p>
