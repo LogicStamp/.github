@@ -33,11 +33,27 @@
 ---
 
 <p align="center">
-  LogicStamp is an open-source developer tooling ecosystem focused on
-  <strong>context engineering</strong> - turning real codebases into
-  deterministic, machine-readable architectural context.
+  <img
+    src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-workflow.gif"
+    alt="LogicStamp analyzing a real React + TypeScript codebase"
+    width="880"
+  />
 </p>
 
+<p align="center">
+  <em>
+    LogicStamp generating deterministic, structured context from a real React codebase -
+    consumed by editors and AI tools via CLI and MCP.
+  </em>
+</p>
+
+---
+
+<p align="center">
+  LogicStamp is an open-source developer tooling ecosystem focused on
+  <strong>context engineering</strong> - <br/> turning real codebases into
+  deterministic, machine-readable architectural context.
+</p>
 <p align="center">
   Built for editors, CI, agents, and AI coding assistants that need
   <em>ground-truth understanding</em>, not guesses.
