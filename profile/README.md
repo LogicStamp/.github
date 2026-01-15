@@ -11,14 +11,10 @@
 
 <br/>
 
-AI-ready context bundles for modern React and TypeScript codebases.
-<br/>
-deterministic, structured representations for accurate, reliable LLM-assisted development.
+**AI-ready context bundles for modern React and TypeScript codebases.**
 </div>
 
 <div align="center">
-
-  <br/>
 
   <a href="https://logicstamp.dev">Website</a>
   ·
