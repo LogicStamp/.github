@@ -112,14 +112,21 @@ Setup guide → https://logicstamp.dev/docs/mcp/getting-started
 
 ---
 
-
+  <p align="center">
+  <a href="https://logicstamp.dev">
+    <img src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/mascot/logicstamp-fox.svg"
+         alt="LogicStamp"
+         width="120" />
+  </a>
+</p>
 
 ## Contributing
 Issues and PRs are welcome across all repositories.
 
 ## Community
-
 This project follows a [Code of Conduct](https://logicstamp.dev/code-of-conduct). By participating, you agree to uphold it.
+<br/>
+👉 Join our [Roadmap](https://logicstamp.dev/roadmap) to stay updated!
 
 ## Contact
 logicstamp.dev@gmail.com
