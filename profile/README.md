@@ -1,16 +1,22 @@
-## LogicStamp
 <br/>
 
 <div align="center">
-AI-ready context bundles for modern React and TypeScript codebases - deterministic, structured representations for accurate, reliable LLM-assisted development.
+  <p align="center">
+  <a href="https://logicstamp.dev">
+    <img src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-woodmark-no-bg.png"
+         alt="LogicStamp"
+         width="320" />
+  </a>
+</p>
+
+<br/>
+
+AI-ready context bundles for modern React and TypeScript codebases.
+<br/>
+deterministic, structured representations for accurate, reliable LLM-assisted development.
 </div>
 
 <div align="center">
-  <img
-    src="https://logicstamp.dev/mascot/logicstamp-fox.svg"
-    width="120"
-    alt="LogicStamp Fox Mascot"
-  />
 
   <br/>
 
@@ -109,6 +115,8 @@ Setup guide → https://logicstamp.dev/docs/mcp/getting-started
 #### 👉 Then tell your AI assistant to use the LogicStamp MCP Server to analyze your project.
 
 ---
+
+
 
 ## Contributing
 Issues and PRs are welcome across all repositories.
