@@ -49,12 +49,14 @@
 
 ---
 
-<p align="center">
+### What is LogicStamp?
+
+<p>
   LogicStamp is an open-source developer tooling ecosystem focused on
-  <strong>context engineering</strong> - <br/> turning real codebases into
+  context engineering - turning codebases into
   deterministic, machine-readable architectural context.
 </p>
-<p align="center">
+<p>
   Built for editors, CI, agents, and AI coding assistants that need
   <em>ground-truth understanding</em>, not guesses.
 </p>
