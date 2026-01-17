@@ -1,15 +1,26 @@
 <br/>
 
-<p align="center">
+<div align="center">
   <a href="https://logicstamp.dev">
-    <img
-      src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-woodmark.png"
-      alt="LogicStamp"
-      width="420
-      height="auto"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-woodmark-dark.png"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-woodmark-light.png"
+      />
+      <img
+        src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-woodmark-light.png"
+        alt="LogicStamp"
+        width="420"
+        height="auto"
+      />
+    </picture>
   </a>
-</p>
+</div>
+
 
 <br/>
 
