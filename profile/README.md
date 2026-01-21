@@ -54,8 +54,8 @@
 
 <p align="center">
   <em>
-    LogicStamp generating deterministic, structured context from a real React codebase -
-    consumed by editors and AI tools via CLI and MCP.
+    LogicStamp generating deterministic, structured context from a React/Tailwind codebase -
+    consumed by AI tools via CLI and MCP.
   </em>
 </p>
 
