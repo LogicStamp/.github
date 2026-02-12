@@ -26,7 +26,7 @@
 
 <p align="center">
   <strong>
-    AI-ready architectural context bundles for modern TypeScript codebases.
+    AI-ready architectural context bundles for TypeScript codebases.
   </strong>
 </p>
 
