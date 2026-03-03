@@ -90,7 +90,9 @@ context engineering - compiling codebases into deterministic, machine-readable a
     />
   </a>
   <br/>
-  <strong>Looking for contributors 💪</strong> - AST tooling, CI integrations, multi-language expansion.
+  <strong>Looking for contributors 💪</strong> <br/>
+  <br/>
+  AST tooling, CI integrations, multi-language expansion, or other ideas are welcomed.
 </p>
 
 ---
