@@ -24,11 +24,16 @@
 
 <br/>
 
-<p align="center">
+<div align="center">
+  
+  ## LogicStamp
+  <br/>
+  
   <strong>
     Compile TypeScript codebases into deterministic architectural context for AI coding workflows.
   </strong>
-</p>
+</div> 
+ <br/>
 
 <p align="center">
   <a href="https://logicstamp.dev">Website</a>
