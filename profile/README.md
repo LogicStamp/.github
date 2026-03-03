@@ -26,7 +26,7 @@
 
 <p align="center">
   <strong>
-    AI-ready architectural context bundles for TypeScript codebases.
+    Compile TypeScript codebases into deterministic architectural context for AI coding workflows.
   </strong>
 </p>
 
@@ -65,12 +65,13 @@
 
 <p>
   LogicStamp is an open-source developer tooling ecosystem focused on
-  context engineering - turning codebases into
-  deterministic, machine-readable architectural context.
+context engineering - compiling codebases into deterministic, machine-readable architectural context.
 </p>
 <p>
-  Built for editors, CI, agents, and AI coding assistants that need
-  <em>ground-truth understanding</em>, not guesses.
+  Built for editors, CI pipelines, and AI agents that require ground-truth structural understanding.
+</p>
+<p>
+  Powered by the TypeScript AST (ts-morph), LogicStamp produces deterministic, diffable context bundles - the same code always yields the same structured output.
 </p>
 
 ---
@@ -84,7 +85,7 @@
     />
   </a>
   <br/>
-  <strong>Looking for contributors!</strong>
+  <strong>Looking for contributors 💪</strong> - AST tooling, CI integrations, multi-language expansion.
 </p>
 
 ---
