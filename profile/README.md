@@ -59,8 +59,7 @@
 
 <p align="center">
   <em>
-    LogicStamp generating deterministic, structured context from a React/Tailwind codebase -
-    consumed by AI tools via CLI and MCP.
+    Example workflow: `stamp context --strict-watch` generates context bundles that MCP-powered assistants use to explain component architecture (ThemeContext shown here).
   </em>
 </p>
 
