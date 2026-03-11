@@ -26,9 +26,6 @@
 
 <div align="center">
   
-  ## LogicStamp
-  <br/>
-  
   <strong>
     Open-source developer tools for deterministic context engineering.
   </strong>
