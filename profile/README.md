@@ -77,7 +77,7 @@
 ---
 
 <p align="center">
-  <a href="https://logicstamp.dev">
+  <a href="https://github.com/LogicStamp/logicstamp-context/blob/main/CONTRIBUTING.md">
     <img
       src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/mascot/logicstamp-fox.svg"
       alt="LogicStamp Mascot"
@@ -85,9 +85,10 @@
     />
   </a>
   <br/>
-  <strong>Looking for contributors 💪</strong> <br/>
+  <strong>Looking for contributors 💪</strong>
   <br/>
-  AST tooling, CI integrations, multi-language expansion, or other ideas are welcome.
+  <br/>
+  <a href="https://github.com/LogicStamp/logicstamp-context/blob/main/CONTRIBUTING.md">Contribute</a>
 </p>
 
 ---
