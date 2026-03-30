@@ -5,14 +5,14 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-woodmark-dark.png"
+        srcset="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-wordmark-dark.png"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-woodmark-light.png"
+        srcset="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-wordmark-light.png"
       />
       <img
-        src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-woodmark-light.png"
+        src="https://raw.githubusercontent.com/LogicStamp/logicstamp.dev/main/public/logicstamp-wordmark-light.png"
         alt="LogicStamp"
         width="420"
         height="auto"
